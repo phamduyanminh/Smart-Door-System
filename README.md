@@ -5,6 +5,9 @@ This project is a prototype for an automated smart home system that actively mon
 
 The goal was to create a responsive IoT device that not only provides visual feedback via LEDs but also keeps the homeowner informed through remote SMS and email alerts when conditions change.
 
+## Video Demonstration
+Watch the system in action: [YouTube Demo](https://youtu.be/zT-jLKNzJtE)
+
 ## System Design & Logic
 The system uses a DHT22 sensor to constantly poll the environment. Based on the temperature readings, the Python control script places the system into one of three states:
 
