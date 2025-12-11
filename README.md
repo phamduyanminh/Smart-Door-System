@@ -53,7 +53,7 @@ The project uses Python 3 and requires a virtual environment on the Raspberry Pi
 
 1.  **Clone the repo and enter the directory:**
     ```bash
-    git clone [https://github.com/yourusername/smart-door-system.git](https://github.com/yourusername/smart-door-system.git)
+    git clone [https://github.com/phamduyanminh/Smart-Door-System.git](https://github.com/phamduyanminh/Smart-Door-System.git)
     cd smart-door-system
     ```
 
